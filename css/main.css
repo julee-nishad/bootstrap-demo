@@ -1,0 +1,78 @@
+body{
+    font-family: 'Cooper Black';
+}
+
+.navbar{
+    background-color: crimson;
+    color: wheat;
+}
+
+.navbar a{
+    color: wheat;
+}
+
+.navbar a:hover{
+    color: lightgray;
+}
+
+.carousel{
+    background-color: crimson;
+    color: wheat;
+}
+
+.my-4{
+    color: crimson;
+}
+
+.accordion-body{
+    color: crimson;
+}
+
+.accordion-header {
+    background-color: crimson;
+    color: wheat;
+}
+
+.accordion-button {
+    background-color: crimson;
+    color: wheat;
+    border: none;
+}
+
+.accordion-button:hover{
+    background-color: wheat;
+    color: crimson;
+    border: none;
+}
+
+.accordion-button:not(.collapsed){
+    background-color: wheat;
+    color: crimson;
+    border: none;
+}
+
+.card, .list-group-item{
+    color: crimson
+}
+
+.card a{
+    background-color: crimson;
+    color: wheat;
+    border: none;
+}
+
+.card a:hover{
+    background-color: wheat;
+    color: crimson;
+    border: none
+}
+
+.card a:active{
+    background-color: wheat;
+    color: crimson;
+    border: none;
+
+}
+.table-danger td{
+    color: crimson;
+}
